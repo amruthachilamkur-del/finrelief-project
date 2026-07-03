@@ -176,3 +176,5 @@ This project was developed for educational and internship purposes.
 
 ### UI Enhancement
 ![UI Enhancement](screenshots/ui-enhancement.png)
+### History Page
+![History Page](screenshots/historyPage.png)
