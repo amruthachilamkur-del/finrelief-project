@@ -157,3 +157,22 @@ https://github.com/amruthachilamkur-del/finrelief-project
 ## 📄 License
 
 This project was developed for educational and internship purposes.
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Know Your Rights
+![Know Your Rights](screenshots/know-your-rights.png)
+
+### Settlement Predictor
+![Settlement Predictor](screenshots/settlement-predictor.png)
+
+### Negotiation Email
+![Negotiation Email](screenshots/negotiation-email.png)
+
+### UI Enhancement
+![UI Enhancement](screenshots/ui-enhancement.png)
